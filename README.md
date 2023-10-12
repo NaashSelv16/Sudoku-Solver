@@ -15,11 +15,11 @@
 ### Table of Contents
 
 1. [Objective](#Objective)
-2. [Project Components](#Project Components)
-3. [Key Achievements](#Key Achievements)
-4. [Technologies Utilized](#Technologies Utilized)
-5. [Quality Assurance and Deployment](#Quality Assurance and Deployment)
-6. [Future Plans](#Future Plans)
+2. [Project Components](#ProjectComponents)
+3. [Key Achievements](#KeyAchievements)
+4. [Technologies Utilized](#TechnologiesUtilized)
+5. [Quality Assurance and Deployment](#QualityAssuranceandDeployment)
+6. [Future Plans](#FuturePlans)
 
 
 ### Objective:
