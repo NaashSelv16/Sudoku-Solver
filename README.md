@@ -15,17 +15,17 @@
 ### Table of Contents
 
 1. [Objective](#Objective)
-2. [Project Components](#ProjectComponents)
-3. [Key Achievements](#KeyAchievements)
-4. [Technologies Utilized](#TechnologiesUtilized)
-5. [Quality Assurance and Deployment](#QualityAssuranceandDeployment)
-6. [Future Plans](#FuturePlans)
+2. [Project Components](#Project-Components)
+3. [Key Achievements](#Key-Achievements)
+4. [Technologies Utilized](#Technologies-Utilized)
+5. [Quality Assurance and Deployment](#Quality-Assurance-and-Deployment)
+6. [Future Plans](#Future-Plans)
 
 
 ### Objective:
 Developed and applied advanced technical skills to architect intelligent game-solving AI systems, synthesizing proficiency in game development and automation.
 
-### ProjectComponents:
+### Project Components:
 
 Designed and engineered complex game structures, encompassing both the game logic and integrated AI systems.
 Pioneered the development of a sophisticated Sudoku-solving AI, utilizing it as a practical platform for algorithm implementation and deep learning exploration.
