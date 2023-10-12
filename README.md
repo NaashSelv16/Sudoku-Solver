@@ -25,7 +25,7 @@
 ### Objective:
 Developed and applied advanced technical skills to architect intelligent game-solving AI systems, synthesizing proficiency in game development and automation.
 
-### Project Components:
+### ProjectComponents:
 
 Designed and engineered complex game structures, encompassing both the game logic and integrated AI systems.
 Pioneered the development of a sophisticated Sudoku-solving AI, utilizing it as a practical platform for algorithm implementation and deep learning exploration.
