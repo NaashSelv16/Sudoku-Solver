@@ -23,30 +23,30 @@
 
 
 ### Objective:
-Developed and applied advanced technical skills to architect intelligent game-solving AI systems, synthesizing proficiency in game development and automation.
+Developed and applied advanced technical skills to create intelligent game-solving AI systems, combining proficiency in game development and automation.
 
 ### Project Components:
 
-Designed and engineered complex game structures, encompassing both the game logic and integrated AI systems.
-Pioneered the development of a sophisticated Sudoku-solving AI, utilizing it as a practical platform for algorithm implementation and deep learning exploration.
+Designed and engineered complex game structures, combining both the game logic and integrated AI systems.
+Pioneered the development of a sophisticated Sudoku-solving AI, utilising it as a practical platform for algorithm implementation and deep learning exploration.
 
 ### Key Achievements:
 
-Demonstrated mastery of object-oriented programming (OOP) principles, employing them to craft clean, compliant code and rigorously testing it on Sudoku and other game projects.
-Focused on optimizing software scalability by meticulously designing and refining architectural blueprints and class structures—a critical foundation for future endeavors involving large-scale SaaS or OS.
+Demonstrated proficiency in object-oriented programming (OOP) through clean, compliant code, validated by testing on Sudoku.
+Acquired expertise in designing scalable architectures and class structures, essential for future ambitions of building large-scale SaaS or OS.
 
 ### Technologies Utilized:
 
-Employed Python and Tkinter for their ease of use and rapid prototyping capabilities, with foresight into potential migration to C++ and QT to enhance performance.
+Leveraged Python and Tkinter for their accessibility, considering a transition to C++ and QT for enhanced efficiency.
 
 ### Quality Assurance and Deployment:
 
-Implemented comprehensive production-grade testing protocols, augmenting error handling strategies for robustness and reliability.
-Maintained granular control over deployment processes to ensure seamless integration and deployment lifecycles.
+Ensured production quality by rigorously testing and implementing robust error handling strategies.
+Maintained control over deployment processes for effective project management and seamless execution.
 
 ### Future Plans:
 
-Envisage transitioning towards web-based hosting solutions to address scalability limitations inherent in Tkinter and QT, particularly for building intricate, high-complexity applications compared to the flexibility offered by full stack web applications.
+Intend to shift to web-based hosting to achieve higher scalability, recognizing limitations of Tkinter and QT for building complex programs compared to full stack web applications.
 
 Built with
 - [python](https://www.python.org/)
