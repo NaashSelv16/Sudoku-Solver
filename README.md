@@ -1,4 +1,3 @@
-[![Run on Repl.it](https://repl.it/badge/github/Jaisu-1/Sudoku-Solver)](https://repl.it/@Jaisu_1/Sudoku-Solver-1) 
 
 <div align="center"> 
 
@@ -9,7 +8,6 @@
 
 <br>
 <div align="center">
-    <img src="/assets/GUI.png# sample" alt="drawing" width="600px"/>
 </div>
 <br>
 </div>  
